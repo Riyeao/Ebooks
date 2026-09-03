@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mendel的Note/control/鲁棒控制.md"
+                "file": "Mendel的Note/math/数值分析.md"
               },
               "icon": "excalidraw-icon",
-              "title": "鲁棒控制"
+              "title": "数值分析"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "8151bb358926674a",
   "lastOpenFiles": [
+    "Mendel的Note/control/鲁棒控制.md",
     "Ebook&ppt/数学类/高等代数/高等代数 第三版 下册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
     "Ebook&ppt/数学类/高等代数/高等代数 第三版 上册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
     "Ebook&ppt/数学类/数学分析/数学分析 陈纪修 第三版 下 by 陈纪修，于崇华，金路 (z-lib.org).pdf",
@@ -191,8 +192,6 @@
     "Ebook&ppt/数学类/凸分析.pdf",
     "Ebook&ppt/数学类/凸优化 by Stephen Boyd, Lieven Vandenberghe (z-lib.org).pdf",
     "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "Ebook&ppt/数学类/高等代数",
-    "Mendel的Note/control/鲁棒控制.md",
     "Mendel的Note/math/数值分析.md"
   ]
 }
