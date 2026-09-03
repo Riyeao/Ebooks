@@ -21,7 +21,7 @@
   "loadJapaneseFonts": false,
   "loadKoreanFonts": false,
   "compress": false,
-  "decompressForMDView": true,
+  "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
   "onceOffGPTVersionReset": true,
   "autosave": true,
