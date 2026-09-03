@@ -13,10 +13,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+                "file": "Ebook&ppt/控制类/鲁棒控制/2-RoustFoundation2026秋-1.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)"
+              "title": "2-RoustFoundation2026秋-1"
             }
           }
         ]
@@ -176,14 +178,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "8151bb358926674a",
   "lastOpenFiles": [
+    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "Ebook&ppt/数学类/凸优化 by Stephen Boyd, Lieven Vandenberghe (z-lib.org).pdf",
     "Mendel的Note/math/数值分析.md",
-    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "Ebook&ppt/数学类/高等代数/高等代数 第三版 上册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
     "Mendel的Note/control/鲁棒控制.md",
     "Ebook&ppt/数学类/高等代数/高等代数 第三版 下册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
