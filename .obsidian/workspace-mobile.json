@@ -11,12 +11,12 @@
             "id": "8151bb358926674a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Mendel的Note/math/数值分析.md"
+                "file": "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "数值分析"
+              "icon": "lucide-file-text",
+              "title": "惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)"
             }
           }
         ]
@@ -181,17 +181,17 @@
   },
   "active": "8151bb358926674a",
   "lastOpenFiles": [
+    "Ebook&ppt/数学类/凸优化 by Stephen Boyd, Lieven Vandenberghe (z-lib.org).pdf",
+    "Mendel的Note/math/数值分析.md",
+    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "Ebook&ppt/数学类/高等代数/高等代数 第三版 上册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
     "Mendel的Note/control/鲁棒控制.md",
     "Ebook&ppt/数学类/高等代数/高等代数 第三版 下册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
-    "Ebook&ppt/数学类/高等代数/高等代数 第三版 上册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
     "Ebook&ppt/数学类/数学分析/数学分析 陈纪修 第三版 下 by 陈纪修，于崇华，金路 (z-lib.org).pdf",
     "Ebook&ppt/数学类/数学分析/数学分析 陈纪修 第三版 上 by 陈纪修，于崇华，金路 (z-lib.org).pdf",
     "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
     "Ebook&ppt/控制类/鲁棒控制/2-RoustFoundation2026秋-1.pdf",
     "Ebook&ppt/数学类/离散数学第2版.pdf",
-    "Ebook&ppt/数学类/凸分析.pdf",
-    "Ebook&ppt/数学类/凸优化 by Stephen Boyd, Lieven Vandenberghe (z-lib.org).pdf",
-    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "Mendel的Note/math/数值分析.md"
+    "Ebook&ppt/数学类/凸分析.pdf"
   ]
 }
