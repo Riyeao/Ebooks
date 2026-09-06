@@ -11,12 +11,12 @@
             "id": "5da5125191a903b2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Mendel的Note/control/鲁棒控制.md"
+                "file": "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "鲁棒控制"
+              "icon": "lucide-file-text",
+              "title": "惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1"
             }
           }
         ]
@@ -186,10 +186,7 @@
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "excalidraw-cn:Create New Excalidraw File": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5da5125191a903b2",
