@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1.pdf"
+                "file": "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1"
+              "title": "数值分析原理（第三版）_9787030831521"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "5da5125191a903b2",
   "lastOpenFiles": [
+    "Mendel的Note/math/数值分析.md",
+    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1.pdf",
     "Mendel的Note/AI/人工智能算法测试.md"
   ]
 }
