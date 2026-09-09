@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05254081b3c2561b",
+        "id": "4e6e7fb8acb38ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "28c5f55d85e8bbab",
+            "id": "147c6100ec7e9d11",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Ebook&ppt/控制类/鲁棒控制/2-RoustFoundation2026秋-1.pdf"
+                "file": "Mendel的Note/navigation/自主导航技术与应用.md"
               },
-              "icon": "lucide-file-text",
-              "title": "2-RoustFoundation2026秋-1"
+              "icon": "excalidraw-icon",
+              "title": "自主导航技术与应用"
             }
           }
         ]
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mendel的Note/control/鲁棒控制.md",
+            "file": "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,7 +153,7 @@
         }
       },
       {
-        "id": "0fbcf5816bb6d5c6",
+        "id": "4a653b210fe2e5b1",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -167,8 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "excalidraw-cn:Create New Excalidraw File": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -177,33 +175,33 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28c5f55d85e8bbab",
+  "active": "147c6100ec7e9d11",
   "lastOpenFiles": [
+    "Mendel的Note/navigation/自主导航技术与应用.md",
+    "Mendel的Note/AI/control/鲁棒控制.md",
+    "Mendel的Note/math/数值分析.md",
+    "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
+    "Ebook&ppt/物理类/应用光学_第3版_-_电子信息与电气学科规划教材·光电信息科学与工程专业_-_张以谟_-_z-library.sk_-1lib.sk_-z-lib.sk_.pdf",
+    "记录性文件/TODOLIST.md",
+    "记录性文件",
+    "Ebook&ppt/物理类",
+    "Ebook&ppt/数学类/凸分析.pdf",
+    "Ebook&ppt/控制类/鲁棒控制/2-RoustFoundation2026秋-1.pdf",
     "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1.pdf",
     "Ebook&ppt/数学类/数学分析/数学分析 陈纪修 第三版 上 by 陈纪修，于崇华，金路 (z-lib.org).pdf",
-    "Mendel的Note/math/数值分析.md",
     "Mendel的Note/AI/Drawing 2026-09-03 19.20.28.md",
-    "Ebook&ppt/控制类/鲁棒控制/2-RoustFoundation2026秋-1.pdf",
     "Mendel的Note/control/鲁棒控制.md",
     "Mendel的Note/AI",
     "Mendel的Note/math/高等代数.md",
     "Mendel的Note/math/矩阵分析.md",
     "Mendel的Note/math/数据分析与特征提取.md",
     "Mendel的Note/math/数学分析.md",
-    "Mendel的Note/navigation/自主导航技术与应用.md",
     "Drawing 2026-09-03 12.52.57.md",
     "Mendel的Note/math/数值分析.svg",
-    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "Ebook&ppt/数学类/凸优化 by Stephen Boyd, Lieven Vandenberghe (z-lib.org).pdf",
-    "Ebook&ppt/数学类/高等代数/高等代数 第三版 上册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
-    "Ebook&ppt/数学类/高等代数/高等代数 第三版 下册 (丘维声) (z-library.sk, 1lib.sk, z-lib.s.pdf",
-    "Ebook&ppt/数学类/数学分析/数学分析 陈纪修 第三版 下 by 陈纪修，于崇华，金路 (z-lib.org).pdf",
-    "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
-    "Ebook&ppt/数学类/离散数学第2版.pdf"
+    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
   ]
 }
