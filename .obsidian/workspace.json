@@ -11,12 +11,12 @@
             "id": "d81f4f594f09b024",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Ebook&ppt/数学类/矩阵分析/chapter1bv3.pdf"
+                "file": "Mendel的Note/control/鲁棒控制.md"
               },
-              "icon": "lucide-file-text",
-              "title": "chapter1bv3"
+              "icon": "excalidraw-icon",
+              "title": "鲁棒控制"
             }
           }
         ]
@@ -191,8 +191,11 @@
   },
   "active": "d81f4f594f09b024",
   "lastOpenFiles": [
-    "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
+    "Mendel的Note/AI/control/鲁棒控制.md",
+    "Mendel的Note/control/鲁棒控制.md",
     "Mendel的Note/math/矩阵分析.md",
+    "Ebook&ppt/数学类/矩阵分析/chapter1bv3.pdf",
+    "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
     "Mendel的Note/math/数值分析.md",
     "Ebook&ppt/数学类/数值分析/01数值分析习题与实验.pdf",
     "Ebook&ppt/数学类/离散数学第2版.pdf",
