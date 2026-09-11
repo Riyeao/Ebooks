@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4e6e7fb8acb38ca8",
+        "id": "f30e1b249a6c6aad",
         "type": "tabs",
         "children": [
           {
-            "id": "147c6100ec7e9d11",
+            "id": "7fb173c2aa8ab52b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mendel的Note/navigation/自主导航技术与应用.md"
+                "file": "Mendel的Note/math/矩阵分析.md"
               },
               "icon": "excalidraw-icon",
-              "title": "自主导航技术与应用"
+              "title": "矩阵分析"
             }
           }
         ]
@@ -179,29 +179,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "147c6100ec7e9d11",
+  "active": "7fb173c2aa8ab52b",
   "lastOpenFiles": [
-    "Mendel的Note/navigation/自主导航技术与应用.md",
-    "Mendel的Note/AI/control/鲁棒控制.md",
-    "Mendel的Note/math/数值分析.md",
+    "Ebook&ppt/导航类/自主导航/2惯性导航系统的预备知识.pdf",
+    "Ebook&ppt/数学类/矩阵分析/chapter1bv3.pdf",
+    "Ebook&ppt/数学类/矩阵分析/chapter1av2.pdf",
+    "Ebook&ppt/数学类/数值分析/01数值分析习题与实验.pdf",
     "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
+    "Mendel的Note/AI/control/鲁棒控制.md",
+    "Mendel的Note/control/鲁棒控制.md",
+    "Mendel的Note/math/矩阵分析.md",
+    "Ebook&ppt/导航类/自主导航/1绪论.pdf",
+    "Mendel的Note/navigation/自主导航技术与应用.md",
+    "Mendel的Note/math/数值分析.md",
     "Ebook&ppt/物理类/应用光学_第3版_-_电子信息与电气学科规划教材·光电信息科学与工程专业_-_张以谟_-_z-library.sk_-1lib.sk_-z-lib.sk_.pdf",
     "记录性文件/TODOLIST.md",
     "记录性文件",
     "Ebook&ppt/物理类",
     "Ebook&ppt/数学类/凸分析.pdf",
     "Ebook&ppt/控制类/鲁棒控制/2-RoustFoundation2026秋-1.pdf",
-    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1.pdf",
-    "Ebook&ppt/数学类/数学分析/数学分析 陈纪修 第三版 上 by 陈纪修，于崇华，金路 (z-lib.org).pdf",
     "Mendel的Note/AI/Drawing 2026-09-03 19.20.28.md",
-    "Mendel的Note/control/鲁棒控制.md",
-    "Mendel的Note/AI",
     "Mendel的Note/math/高等代数.md",
-    "Mendel的Note/math/矩阵分析.md",
     "Mendel的Note/math/数据分析与特征提取.md",
     "Mendel的Note/math/数学分析.md",
     "Drawing 2026-09-03 12.52.57.md",
-    "Mendel的Note/math/数值分析.svg",
-    "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+    "Mendel的Note/math/数值分析.svg"
   ]
 }
