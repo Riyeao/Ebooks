@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4a822d182f964fcd",
+        "id": "1f55253326c556cc",
         "type": "tabs",
         "children": [
           {
-            "id": "5da5125191a903b2",
+            "id": "d81f4f594f09b024",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf"
+                "file": "Ebook&ppt/数学类/矩阵分析/chapter1bv3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "数值分析原理（第三版）_9787030831521"
+              "title": "chapter1bv3"
             }
           }
         ]
@@ -189,9 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da5125191a903b2",
+  "active": "d81f4f594f09b024",
   "lastOpenFiles": [
+    "Ebook&ppt/数学类/数值分析/数值分析原理（第三版）_9787030831521.pdf",
+    "Mendel的Note/math/矩阵分析.md",
     "Mendel的Note/math/数值分析.md",
+    "Ebook&ppt/数学类/数值分析/01数值分析习题与实验.pdf",
+    "Ebook&ppt/数学类/离散数学第2版.pdf",
+    "Ebook&ppt/控制类/鲁棒控制/2-RoustFoundation2026秋-1.pdf",
     "Ebook&ppt/导航类/惯性导航 (第三版) (秦永元 编著) (z-library.sk, 1lib.sk, z-lib.sk)_1.pdf",
     "Mendel的Note/AI/人工智能算法测试.md"
   ]
